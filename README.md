@@ -5,3 +5,4 @@ These are my notes for preparing the CKA certification, from the [KodeKloud trai
 1. [Core Concepts](https://github.com/garyfo/CKA/blob/main/1.%20Core%20Concepts.md) (2 days)
 2. [Scheduling](https://github.com/garyfo/CKA/blob/main/2.%20Scheduling.md) (1.5 days)
 3. [Logging & Monitoring](https://github.com/garyfo/CKA/blob/main/3.%20Logging%20%26%20Monitoring.md) (30 minutes)
+4. [Application Lifecycle Management](https://github.com/garyfo/CKA/blob/main/4.%20Application%20Lifecycle%20Management.md) (0.5 day)
